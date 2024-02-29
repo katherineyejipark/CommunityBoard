@@ -2,9 +2,9 @@
 
 Submitted by: **Yeji Park**
 
-This web app: **insert description**
+This web app: **This web app will show the list of my favorite restaurants by card type and you can check out their meny by clicking view menu button as well.**
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
