@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #f0f8ff; /* Adjust the color to match your design */
+  padding-bottom: 2rem;
+}
+
+.app-header {
+  text-align: center;
+  padding-top: 60px; /* Adjust based on your awning image's height */
+}
+
+.header-image {
+  max-width: 100%; /* Ensures image is responsive and fits the container width */
+  height: auto; /* Maintains aspect ratio */
+}
+
+.favorite-restaurant-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* Space between cards */
+  min-width: 300px; /* Minimum width of the container */
+}
